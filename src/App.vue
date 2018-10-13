@@ -70,4 +70,17 @@ export default {
     margin-bottom: 3rem;
   }
 
+  body{
+    background-image: url('./assets/DSC01610-min.jpg');
+    background-size: cover; 
+  }
+
+  legend{
+    color: white;
+  }
+
+  .input-field{
+    color: white;
+  }
+
 </style>
